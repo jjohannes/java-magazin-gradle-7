@@ -12,7 +12,7 @@ pluginManagement {
     includeBuild("../my-build-logic")
 }
 
-// 2a. Orte an denen Gradle nach anderen Komponenten such soll
+// 2a. Orte an denen Gradle nach anderen Komponenten suchen soll
 dependencyResolutionManagement {
     // Repositories mit veröffentlichten Komponenten
     repositories {
